@@ -3,4 +3,8 @@ fksadfjj
 sfsdf
 fsfs
 áaff
+<<<<<<< HEAD
 dsaasf
+=======
+sfasfafafasf
+>>>>>>> cuong1
